@@ -1,0 +1,2 @@
+# TrustChess
+Trust Chess application
